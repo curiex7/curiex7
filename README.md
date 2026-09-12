@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Shubham Bhuyan Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Subham Bhuyan Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-Hi there! 👋 I'm **Shubham Bhuyan**, a final-year Computer Science & Engineering undergraduate at **Vellore Institute of Technology (VIT Chennai)**. 
+Hi there! 👋 I'm **Subham Bhuyan**, a final-year Computer Science & Engineering undergraduate at **Vellore Institute of Technology (VIT Chennai)**. 
 
 I specialize in building full-stack web applications, designing scalable backend architectures, and exploring machine learning & quantum-inspired optimization algorithms.
 
@@ -179,5 +179,5 @@ I specialize in building full-stack web applications, designing scalable backend
 </p>
 
 <p align="center">
-  <i>⚡ "Code. Create. Innovate." &bull; Shubham Bhuyan</i>
+  <i>⚡ "Code. Create. Innovate." &bull; Subham Bhuyan</i>
 </p>
